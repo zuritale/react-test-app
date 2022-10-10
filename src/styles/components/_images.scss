@@ -1,0 +1,32 @@
+/*
+ * Content:
+ *
+ * Image Banner
+ * Empty Banner
+ * Tutorial Image
+ */
+
+
+// Image Banner
+// ============================================================================
+
+.image-banner {
+  max-width: 11rem;
+  padding: 2rem;
+  border-radius: 2.5rem;
+}
+
+// Empty Banner
+// ============================================================================
+
+.empty-banner-img {
+  max-width: 12rem;
+}
+
+// Tutorial Image
+// ============================================================================
+
+.tutorial-image {
+  max-height: 16rem;
+  max-width: 100%;
+}
