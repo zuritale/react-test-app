@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Usage
 
-Set the next app environment variables in your .env file to make the app work
+Set the react app environment variables in your .env file to make the app work
 
 ```bash
   REACT_APP_BASE_URL
